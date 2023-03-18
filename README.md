@@ -1,4 +1,4 @@
-Decentralized Web3 Hosting for static websites
+🙀 Decentralized Web3 Hosting for static websites 🙀
 
 To host website:
 1. Go to https://decwebhost.github.io
@@ -13,3 +13,5 @@ To host website:
  - Upload .html file and press render
  - Press "Host!"
  
+Example result 👉 https://decwebhost.github.io/view.html?name=hello.world
+❤️ Support project 0xD82197BFf9148AD7c670365B49E07020b37e97f8 ❤️
