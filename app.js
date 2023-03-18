@@ -53,7 +53,7 @@ let contractABI = [
 				"type": "string"
 			}
 		],
-		"name": "storeData",
+		"name": "hostData",
 		"outputs": [],
 		"stateMutability": "nonpayable",
 		"type": "function"
