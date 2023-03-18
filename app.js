@@ -118,7 +118,7 @@ async function storeData() {
     let name = document.getElementById("nameInput").value;
     let value = document.getElementById("rendered").innerHTML;
     console.log(value);
-    await contract.methods.storeData(name, value).send({from: window.ethereum.selectedAddress});
+    await contract.methods.hostData(name, value).send({from: window.ethereum.selectedAddress});
     document.getElementById("result").innerHTML = "Your website hosted! <a href='/view.html?name="+name+"'><button>Explore!</button></a>";
 }
 
