@@ -1,4 +1,4 @@
-🙀 Decentralized Web3 Hosting for static websites 🙀
+# 🙀 Decentralized Web3 Hosting for static websites 🙀
 
 To host website:
 1. Go to https://decwebhost.github.io
