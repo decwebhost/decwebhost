@@ -1,7 +1,7 @@
 let web3 = new Web3(Web3.givenProvider);
 
 // Load the contract using the contract address and ABI
-let contractAddress = '0xEfafCC7713fe130A3edA1033E91E1D16392bCD55';
+let contractAddress = '0x172dC57FDEb34f3E200d0599f9C70bc4035e9B05';
 let contractABI = [
 	{
 		"inputs": [],
